@@ -1,0 +1,1 @@
+# quantumult-zhihu-adblock
